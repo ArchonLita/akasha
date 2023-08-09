@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
     "module": "nodenext",
     "target": "es6",
-  },
+    "baseUrl": "."
+  }
 }
